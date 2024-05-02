@@ -77,8 +77,10 @@
             margin: 0;
             
         }
-        .contact-info-container p, 
-        .nav-links li a{
+        .contact-info-container p{
+            font-size: 1rem;
+        }
+        .nav-links li a {
             font-size: 1rem;
         }
         .experience-subtitle {
