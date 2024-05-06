@@ -27,6 +27,7 @@ a, .btn {
     transition: all 300ms ease;
 }
 
+
 /* desktop nav */
 
 nav, .nav-links {
@@ -304,7 +305,13 @@ section {
 .arrow {
     position: absolute;
     right: -5rem;
-    bottom: 2.5rem;
+   bottom: 2.5rem;
+}
+
+.arrowUp {
+    position: absolute;
+    right: -5rem;
+    bottom: 7rem;
 }
 
 .details-container {

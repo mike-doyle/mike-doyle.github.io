@@ -51,7 +51,7 @@
 
         }
     }
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 850px) {
         #contact,
         footer {
             height: 40vh;
@@ -114,6 +114,12 @@
         .text-container {
             text-align: justify;
         }
+        
+        #projects {
+            display: flex;
+        }
+
     }   
+    
         
 }
